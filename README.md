@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 - 🔭 I’m currently working on **Sign gesture recognition**
 
 - 🌱 I’m currently learning **Machine learning**
-- 
+  
 - 👀 I’m interested in **Software Developer**
 
 - 👯 I’m looking to work on MNC's
