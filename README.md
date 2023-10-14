@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=aditi2828&label=Profile%20Views&color=4&icon=0&pretty=false" />
 </a>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditi2828" alt="aditi2828" /></a> </p>
+
 
 - 🔭 I’m currently working on **Sign gesture recognition**
 
@@ -38,4 +38,5 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditi2828&show_icons=true&locale=en" alt="aditi2828" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditi2828&" alt="aditi2828" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditi2828" alt="aditi2828" /></a> </p>
 
