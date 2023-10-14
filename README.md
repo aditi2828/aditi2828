@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Hi 👋, I'm Aditi Gupta</h1>
 <h3 align="center">A passionate Full Stack Developer </h3>
-<img align="right" alt="coding" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif">
+<img align="right" alt="coding" width = 400px src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif">
 - 🔭 I’m currently working on **Sign gesture recognition**
 
 - 🌱 I’m currently learning **Machine learning**
