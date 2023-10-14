@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💬 Ask me about **react, javascript etc.**
 
-- 📫 How to reach me ** https://www.linkedin.com/in/aditi-gupta-b801581bb/**
+- 📫 How to reach me **aditigupta2828@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
