@@ -1,34 +1,29 @@
-- 👋 Hi, I’m @aditi2828
-- 👀 I’m interested in Software Developer...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to work on MNC's...
-- 📫 How to reach me ...
-- https://www.linkedin.com/in/aditi-gupta-b801581bb/
+
 
 <!---
 aditi2828/aditi2828 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+<h1 align="center">Hi 👋, I'm Aditi Gupta</h1>
+<h3 align="center">A passionate Full Stack Developer </h3>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=aditi2828&label=Profile%20Views&color=4&icon=0&pretty=false" />
 </a>
-
-<h1 align="center">Hi 👋, I'm Aditi Gupta</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi2828&label=Profile%20views&color=0e75b6&style=flat" alt="aditi2828" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditi2828" alt="aditi2828" /></a> </p>
 
 - 🔭 I’m currently working on **Sign gesture recognition**
 
 - 🌱 I’m currently learning **Machine learning**
+- 
+- 👀 I’m interested in **Software Developer**
 
-- 👯 I’m looking to collaborate on **MNC's**
+- 👯 I’m looking to work on MNC's
 
 - 💬 Ask me about **react, javascript etc.**
 
-- 📫 How to reach me **aditigupta2828@gmail.com**
+- 📫 How to reach me ** https://www.linkedin.com/in/aditi-gupta-b801581bb/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
