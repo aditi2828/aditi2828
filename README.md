@@ -5,7 +5,7 @@ aditi2828/aditi2828 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<img  alt="background" width=200% src="https://media4.giphy.com/media/bJ4TVNYNUympPgcpem/200w.webp?cid=ecf05e47h6dwonhbz9qvwhftnkcwf7cwo8uom0wbcb8pswig&ep=v1_gifs_search&rid=200w.webp&ct=g">
+<img  alt="background" width=200% src="https://drive.google.com/file/d/1FWTGiozOq6us6MQuaJrPYA0up35C_-9O/view?usp=drive_link">
 <h1 align="center">Hi 👋, I'm Aditi Gupta</h1>
 <h3 align="center">A passionate Full Stack Developer </h3>
 <img align="right" alt="coding" width = 380px src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODV3MWM1eWFta2sydjdqdDJkMzJ6NjlwZHYyZmZqaHQ0azgyOGcyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"
