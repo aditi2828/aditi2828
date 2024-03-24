@@ -9,17 +9,17 @@ You can click the Preview link to take a look at your changes.
 <img align="right" alt="coding" width = 380px src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODV3MWM1eWFta2sydjdqdDJkMzJ6NjlwZHYyZmZqaHQ0azgyOGcyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"
   
   >
-- 🔭 I’m currently working on **Sign gesture recognition**
+- 🔭 I’m currently working on **Travel Website**
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **new technologies**
   
 - 👀 I’m interested in **Software Developer**
 
-- 👯 I’m looking to work on MNC's
+- 👯 I’m looking to work on MNC's, startups etc.
 
-- 💬 Ask me about **react, javascript etc.**
+- 💬 Ask me about **react, javascript.react native, typescript, nodejs, vue.js, angular etc.**
 
-- 📫 How to reach me **aditigupta2828@gmail.com**
+- 📫  Reach me through mail **aditigupta2828@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
